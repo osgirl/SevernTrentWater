@@ -12,20 +12,6 @@ var header=new function()
     {
         $(".pagename").text(name);
     };
-
-/*
-    this.showMenu=function()
-    {
-        $(".menubtn").show();
-        $(".pagename").removeClass("pagefull pagebutton").addClass("pagebutton");
-    };
-
-    this.hideMenu=function()
-    {
-        $(".menubtn").hide();
-        $(".pagename").removeClass("pagefull pagebutton").addClass("pagefull");
-    }
-*/
 };
 
 var menu=new function()
@@ -33,16 +19,13 @@ var menu=new function()
     var me=this;
     this.initialise=function()
     {
-        alert("initialising menu");
-//        if(!$("menubtn").is(":visible"))
         if(!me.isAvailable)
             return;
-        alert(" meni is available");
         var thisHtml="<div class='menuhome menuentry firstmenu'>Home</div><div class='menuprofile menuentry'>Profile</div><div class=' menuentry menuabout'>About</div>"
         $(".pagemenu").html(thisHtml);
         $(".menubtn").click(function() {
             if($(".pagemenu").is(":visible"))
-                $(".pagemenu").hide(100);
+                $(".pagemenu").hide(200);
             else
                 $(".pagemenu").show(100);
         });
