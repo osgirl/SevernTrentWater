@@ -2,7 +2,6 @@ var header=new function()
 {
     this.initialise=function()
     {
-//        var thisHtml="<a class='menubtn' >i</a><p class='pagename'>Splash screen</p>"
         var thisHtml="<p class='pagename'>Splash screen</p>"
         $(".pagehead").html(thisHtml);
         menu.initialise();
@@ -12,20 +11,6 @@ var header=new function()
     {
         $(".pagename").text(name);
     };
-
-/*
-    this.showMenu=function()
-    {
-        $(".menubtn").show();
-        $(".pagename").removeClass("pagefull pagebutton").addClass("pagebutton");
-    };
-
-    this.hideMenu=function()
-    {
-        $(".menubtn").hide();
-        $(".pagename").removeClass("pagefull pagebutton").addClass("pagefull");
-    }
-*/
 };
 
 var menu=new function()
@@ -33,22 +18,17 @@ var menu=new function()
     var me=this;
     this.initialise=function()
     {
-        alert("initialising menu");
-//        if(!$("menubtn").is(":visible"))
-        if(!me.isAvailable)
-            return;
-        alert(" meni is available");
         var thisHtml="<div class='menuhome menuentry firstmenu'>Home</div><div class='menuprofile menuentry'>Profile</div><div class=' menuentry menuabout'>About</div>"
         $(".pagemenu").html(thisHtml);
-        $(".menubtn").click(function() {
-            if($(".pagemenu").is(":visible"))
-                $(".pagemenu").hide(100);
-            else
-                $(".pagemenu").show(100);
-        });
         $(".menuhome").click(function(){ $(".pagemenu").hide();if(profile.profileManager()) manager.initialise();else technician.initialise();});
         $(".menuprofile").click(function(){$(".pagemenu").hide();profilePage.initialise(true);});
         $(".menuabout").click(function(){$(".pagemenu").hide();about.initialise();})
+    }
+
+    this.menupressed=function()
+    {
+        if(me.isAvailable)
+            if($(".pagemenu").is(":visible")) $(".pagemenu").hide(100);else $(".pagemenu").show(100);
     }
 
     this.isAvailable=true;
@@ -66,10 +46,7 @@ var about=new function()
 
 var footer=new function()
 {
-    this.initialise=function()
-    {
-        //If I need to set anything on the footer
-    };
+    this.initialise=function(){};
 };
 
 var splash=new function()
@@ -187,7 +164,6 @@ var profilePage=new function()
         function finishProfile(first)
         {
             first();
-//            header.showMenu();
             menu.isAvailable=true;
             if(profile.profileManager())
                 manager.initialise();
@@ -238,14 +214,12 @@ var profilePage=new function()
                 $(".siteval").val(profile.siteName);
                 $(".siteid").val(profile.site);
             }
-//            header.showMenu();
             menu.isAvailable=true;
         }
         else
         {
             $(".technician").first().click().prop("checked", true);
             $(".close").hide();
-//            header.hideMenu();
             menu.isAvailable=false;
         }
         $(".firstName").change(function(){profile.firstName=validateField($(this));}).change();

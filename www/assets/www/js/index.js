@@ -1,19 +1,9 @@
-function initialise()
-{
-    alert("called directly")
-    initialiseApp();
-    setTimeout(function(){header.initialise();footer.initialise();splash.initialise();}, 200);
-    document.addEventListener("menubutton", function(){alert("menu button pressed");menu.initialise();}, false);
-}
-
 var app = {initialize: function() {document.addEventListener('deviceready', function(){
-
-    alert("called from event");
     initialiseApp();
     setTimeout(function(){header.initialise();footer.initialise();splash.initialise();}, 200);
-    document.addEventListener("menubutton", function(){alert("menu button pressed");menu.initialise();}, false);
+    document.addEventListener("menubutton", function(){menu.menupressed();}, false);
 
-}, false);initialise();}};
+}, false);}};
 
 //Utilities used across this app
 function getAlarmStatus(statusid)

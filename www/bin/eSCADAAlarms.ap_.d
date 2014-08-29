@@ -21,11 +21,13 @@ D:\Projects\eSCADEAlarms\www\assets\www\css\spargonet.css \
 D:\Projects\eSCADEAlarms\www\assets\www\img\logo.png \
 D:\Projects\eSCADEAlarms\www\assets\www\img\menubtn.jpg \
 D:\Projects\eSCADEAlarms\www\assets\www\img\spinner.gif \
+D:\Projects\eSCADEAlarms\www\assets\www\js\cordova.js \
 D:\Projects\eSCADEAlarms\www\assets\www\js\dropdowns.js \
 D:\Projects\eSCADEAlarms\www\assets\www\js\index.js \
 D:\Projects\eSCADEAlarms\www\assets\www\js\jquery-1.11.1.min.js \
 D:\Projects\eSCADEAlarms\www\assets\www\js\jquery.lightbox_me.js \
 D:\Projects\eSCADEAlarms\www\assets\www\js\pages.js \
+D:\Projects\eSCADEAlarms\www\assets\www\js\phonegap.js \
 D:\Projects\eSCADEAlarms\www\assets\www\js\profile.js \
 D:\Projects\eSCADEAlarms\www\assets\www\js\Utilities.js \
 D:\Projects\eSCADEAlarms\www\assets\www\js\WebServices.js \
