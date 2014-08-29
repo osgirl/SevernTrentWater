@@ -19,15 +19,12 @@ var menu=new function()
     var me=this;
     this.initialise=function()
     {
+        alert("initialising menu");
         if(!me.isAvailable)
             return;
         var thisHtml="<div class='menuhome menuentry firstmenu'>Home</div><div class='menuprofile menuentry'>Profile</div><div class=' menuentry menuabout'>About</div>"
         $(".pagemenu").html(thisHtml);
-        $(".menubtn").click(function() {
-            if($(".pagemenu").is(":visible"))
-                $(".pagemenu").hide(200);
-            else
-                $(".pagemenu").show(100);
+        $(".menubtn").click(function() {if($(".pagemenu").is(":visible")) $(".pagemenu").hide(100);else $(".pagemenu").show(100);
         });
         $(".menuhome").click(function(){ $(".pagemenu").hide();if(profile.profileManager()) manager.initialise();else technician.initialise();});
         $(".menuprofile").click(function(){$(".pagemenu").hide();profilePage.initialise(true);});
@@ -49,10 +46,7 @@ var about=new function()
 
 var footer=new function()
 {
-    this.initialise=function()
-    {
-        //If I need to set anything on the footer
-    };
+    this.initialise=function() {};
 };
 
 var splash=new function()
@@ -170,7 +164,6 @@ var profilePage=new function()
         function finishProfile(first)
         {
             first();
-//            header.showMenu();
             menu.isAvailable=true;
             if(profile.profileManager())
                 manager.initialise();
@@ -184,7 +177,6 @@ var profilePage=new function()
                 field.addClass("red");
             else
                 field.removeClass("red");
-            setSaveButton();
             return field.val();
         }
 
@@ -221,14 +213,12 @@ var profilePage=new function()
                 $(".siteval").val(profile.siteName);
                 $(".siteid").val(profile.site);
             }
-//            header.showMenu();
             menu.isAvailable=true;
         }
         else
         {
             $(".technician").first().click().prop("checked", true);
             $(".close").hide();
-//            header.hideMenu();
             menu.isAvailable=false;
         }
         $(".firstName").change(function(){profile.firstName=validateField($(this));}).change();

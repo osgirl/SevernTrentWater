@@ -1,5 +1,5 @@
 var app = {initialize: function() {document.addEventListener('deviceready', function(){
-
+    alert("starting when ready");
     initialiseApp();
     setTimeout(function(){header.initialise();footer.initialise();splash.initialise();}, 200);
     document.addEventListener("menubutton", function(){menu.initialise();}, false);
