@@ -1,7 +1,357 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="459fa149-7e4c-4b3a-b47e-b85730478d5a" name="Default" comment="" />
+    <list default="true" id="459fa149-7e4c-4b3a-b47e-b85730478d5a" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\.project" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\AndroidManifest.xml.d" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\build.prop" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\Address.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\Connection.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\ConnectionPool$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\ConnectionPool$2.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\ConnectionPool.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\HttpResponseCache$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\HttpResponseCache$2.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\HttpResponseCache$3.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\HttpResponseCache$CacheRequestImpl$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\HttpResponseCache$CacheRequestImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\HttpResponseCache$Entry.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\HttpResponseCache$EntryCacheResponse.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\HttpResponseCache$EntrySecureCacheResponse.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\HttpResponseCache.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\OkHttpClient.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\OkResponseCache.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\ResponseSource.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\Route.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\TunnelRequest.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\AbstractOutputStream.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\Base64.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\DiskLruCache$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\DiskLruCache$2.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\DiskLruCache$Editor$FaultHidingOutputStream.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\DiskLruCache$Editor.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\DiskLruCache$Entry.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\DiskLruCache$Snapshot.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\DiskLruCache.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\Dns$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\Dns.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\FaultRecoveringOutputStream.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\NamedRunnable.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\Platform$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\Platform$Android23.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\Platform$Android41.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\Platform$Java5.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\Platform$JdkWithJettyNpnPlatform.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\Platform$JettyNpnProvider.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\Platform.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\StrictLineReader$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\StrictLineReader.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\Util.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\AbstractHttpInputStream.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\AbstractHttpOutputStream.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\HeaderParser$CacheControlHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\HeaderParser.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\HttpAuthenticator$Challenge.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\HttpAuthenticator.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\HttpDate$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\HttpDate.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\HttpEngine$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\HttpEngine.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\HttpResponseCache$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\HttpResponseCache$2.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\HttpResponseCache$CacheRequestImpl$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\HttpResponseCache$CacheRequestImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\HttpResponseCache$Entry.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\HttpResponseCache$EntryCacheResponse.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\HttpResponseCache$EntrySecureCacheResponse.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\HttpResponseCache.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\HttpTransport$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\HttpTransport$ChunkedInputStream.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\HttpTransport$ChunkedOutputStream.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\HttpTransport$FixedLengthInputStream.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\HttpTransport$FixedLengthOutputStream.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\HttpTransport.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\HttpURLConnectionImpl$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\HttpURLConnectionImpl$Retry.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\HttpURLConnectionImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\HttpsURLConnectionImpl$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\HttpsURLConnectionImpl$HttpUrlConnectionDelegate.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\HttpsURLConnectionImpl$HttpsEngine.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\HttpsURLConnectionImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\OkResponseCache.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\OkResponseCacheAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\RawHeaders$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\RawHeaders.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\RequestHeaders$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\RequestHeaders.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\ResponseHeaders$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\ResponseHeaders.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\RetryableOutputStream.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\RouteSelector.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\SpdyTransport.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\Transport.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\http\UnknownLengthHttpInputStream.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\spdy\IncomingStreamHandler$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\spdy\IncomingStreamHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\spdy\Ping.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\spdy\Settings.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\spdy\SpdyConnection$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\spdy\SpdyConnection$2.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\spdy\SpdyConnection$3.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\spdy\SpdyConnection$Builder.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\spdy\SpdyConnection$Reader$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\spdy\SpdyConnection$Reader.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\spdy\SpdyConnection.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\spdy\SpdyReader$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\spdy\SpdyReader$2.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\spdy\SpdyReader$Handler.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\spdy\SpdyReader.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\spdy\SpdyStream$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\spdy\SpdyStream$SpdyDataInputStream.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\spdy\SpdyStream$SpdyDataOutputStream.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\spdy\SpdyStream.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\com\squareup\okhttp\internal\spdy\SpdyWriter.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\App$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\App$2.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\App$3.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\App.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\AuthenticationToken.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\CallbackContext.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\Config.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\CordovaActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\CordovaActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\CordovaActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\CordovaActivity$4$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\CordovaActivity$4.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\CordovaActivity$5$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\CordovaActivity$5.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\CordovaActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\CordovaArgs.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\CordovaChromeClient$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\CordovaChromeClient$2.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\CordovaChromeClient$3.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\CordovaChromeClient$4.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\CordovaChromeClient$5.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\CordovaChromeClient$6.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\CordovaChromeClient$7.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\CordovaChromeClient$8.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\CordovaChromeClient$9.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\CordovaChromeClient.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\CordovaInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\CordovaPlugin.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\CordovaResourceApi$OpenForReadResult.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\CordovaResourceApi.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\CordovaWebView$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\CordovaWebView$2.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\CordovaWebView$3.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\CordovaWebView$4.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\CordovaWebView$ActivityResult.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\CordovaWebView$Level16Apis.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\CordovaWebView.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\CordovaWebViewClient$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\CordovaWebViewClient$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\CordovaWebViewClient.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\DirectoryManager.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\DroidGap.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\ExifHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\ExposedJsApi.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\FileHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\IceCreamCordovaWebViewClient.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\JSONUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\LOG.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\LinearLayoutSoftKeyboardDetect.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\NativeToJsMessageQueue$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\NativeToJsMessageQueue$BridgeMode.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\NativeToJsMessageQueue$JsMessage.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\NativeToJsMessageQueue$LoadUrlBridgeMode$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\NativeToJsMessageQueue$LoadUrlBridgeMode.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\NativeToJsMessageQueue$OnlineEventsBridgeMode$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\NativeToJsMessageQueue$OnlineEventsBridgeMode.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\NativeToJsMessageQueue$PrivateApiBridgeMode.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\NativeToJsMessageQueue.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\PluginEntry.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\PluginManager$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\PluginManager$PluginManagerService$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\PluginManager$PluginManagerService.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\PluginManager.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\PluginResult$Status.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\PluginResult.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\ScrollEvent.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\Whitelist$URLPattern.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\classes\org\apache\cordova\Whitelist.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\bin\proguard.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\build.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\gen\R.java.d" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\gen\org\apache\cordova\BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\local.properties" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\proguard-project.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\project.properties" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\Address.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\Connection.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\ConnectionPool.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\HttpResponseCache.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\OkHttpClient.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\OkResponseCache.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\ResponseSource.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\Route.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\TunnelRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\AbstractOutputStream.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\Base64.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\DiskLruCache.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\Dns.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\FaultRecoveringOutputStream.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\NamedRunnable.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\Platform.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\StrictLineReader.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\Util.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\http\AbstractHttpInputStream.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\http\AbstractHttpOutputStream.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\http\HeaderParser.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\http\HttpAuthenticator.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\http\HttpDate.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\http\HttpEngine.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\http\HttpResponseCache.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\http\HttpTransport.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\http\HttpURLConnectionImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\http\HttpsURLConnectionImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\http\OkResponseCache.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\http\OkResponseCacheAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\http\RawHeaders.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\http\RequestHeaders.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\http\ResponseHeaders.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\http\RetryableOutputStream.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\http\RouteSelector.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\http\SpdyTransport.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\http\Transport.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\http\UnknownLengthHttpInputStream.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\spdy\IncomingStreamHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\spdy\Ping.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\spdy\Settings.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\spdy\SpdyConnection.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\spdy\SpdyReader.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\spdy\SpdyStream.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\com\squareup\okhttp\internal\spdy\SpdyWriter.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\org\apache\cordova\App.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\org\apache\cordova\AuthenticationToken.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\org\apache\cordova\CallbackContext.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\org\apache\cordova\Config.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\org\apache\cordova\CordovaActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\org\apache\cordova\CordovaArgs.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\org\apache\cordova\CordovaChromeClient.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\org\apache\cordova\CordovaInterface.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\org\apache\cordova\CordovaPlugin.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\org\apache\cordova\CordovaResourceApi.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\org\apache\cordova\CordovaWebView.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\org\apache\cordova\CordovaWebViewClient.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\org\apache\cordova\DirectoryManager.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\org\apache\cordova\DroidGap.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\org\apache\cordova\ExifHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\org\apache\cordova\ExposedJsApi.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\org\apache\cordova\FileHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\org\apache\cordova\IceCreamCordovaWebViewClient.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\org\apache\cordova\JSONUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\org\apache\cordova\LOG.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\org\apache\cordova\LinearLayoutSoftKeyboardDetect.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\org\apache\cordova\NativeToJsMessageQueue.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\org\apache\cordova\PluginEntry.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\org\apache\cordova\PluginManager.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\org\apache\cordova\PluginResult.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\org\apache\cordova\ScrollEvent.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\CordovaLib\src\org\apache\cordova\Whitelist.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\ant.properties" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\assets\www\css\index.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\assets\www\css\spargonet.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\assets\www\img\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\assets\www\img\menubtn.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\assets\www\img\spinner.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\assets\www\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\assets\www\js\Utilities.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\assets\www\js\WebServices.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\assets\www\js\dropdowns.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\assets\www\js\index.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\assets\www\js\jquery-1.11.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\assets\www\js\jquery.lightbox_me.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\assets\www\js\pages.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\assets\www\js\profile.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\AndroidManifest.xml.d" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\R.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\build.prop" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\classes.dex.d" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\classes\com\phonegap\eSCADAAlarms\BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\classes\com\phonegap\eSCADAAlarms\R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\classes\com\phonegap\eSCADAAlarms\R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\classes\com\phonegap\eSCADAAlarms\R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\classes\com\phonegap\eSCADAAlarms\R$xml.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\classes\com\phonegap\eSCADAAlarms\R.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\classes\com\phonegap\eSCADAAlarms\eSCADAAlarms.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\classes\com\phonegap\helloworld\BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\classes\com\phonegap\helloworld\R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\classes\com\phonegap\helloworld\R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\classes\com\phonegap\helloworld\R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\classes\com\phonegap\helloworld\R$xml.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\classes\com\phonegap\helloworld\R.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\dexedLibs\classes-b084781dde91f4351d2147d79c1245fa.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\eSCADAAlarms-release-unaligned.apk" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\eSCADAAlarms-release-unsigned.apk" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\eSCADAAlarms-release-unsigned.apk.d" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\eSCADAAlarms-release.apk" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\eSCADAAlarms.ap_" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\eSCADAAlarms.ap_.d" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\proguard.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\res\drawable-hdpi\icon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\res\drawable-ldpi\icon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\res\drawable-mdpi\icon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\res\drawable-xhdpi\icon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\res\drawable\icon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\build.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\config.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\css\index.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\css\spargonet.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\gen\R.java.d" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\gen\com\phonegap\eSCADAAlarms\BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\gen\com\phonegap\eSCADAAlarms\R.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\gen\com\phonegap\helloworld\BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\gen\com\phonegap\helloworld\R.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\icon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\img\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\img\menubtn.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\img\spinner.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\js\Utilities.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\js\WebServices.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\js\dropdowns.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\js\index.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\js\jquery-1.11.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\js\jquery.lightbox_me.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\js\pages.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\js\profile.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\local.properties" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\proguard-project.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\project.properties" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\res\drawable-hdpi\icon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\res\drawable-ldpi\icon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\res\drawable-mdpi\icon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\res\drawable-xhdpi\icon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\res\drawable\icon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\res\values\strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\res\xml\config.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\spec.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\spec\helper.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\spec\index.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\spec\lib\jasmine-1.2.0\MIT.LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\spec\lib\jasmine-1.2.0\jasmine-html.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\spec\lib\jasmine-1.2.0\jasmine.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\spec\lib\jasmine-1.2.0\jasmine.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\src\com\phonegap\eSCADAAlarms\eSCADAAlarms.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="eSCADEAlarms.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,92 +372,15 @@
     <favorites_list name="eSCADEAlarms" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/www/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="0" selection-start="1060" selection-end="1060" vertical-scroll-proportion="0.60714287" vertical-offset="0" max-vertical-offset="532">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/js/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="26" selection-start="662" selection-end="662" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pages.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/js/pages.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="280" selection-end="280" vertical-scroll-proportion="-5.44" vertical-offset="0" max-vertical-offset="4471">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="logo.png" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/img/logo.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dropdowns.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/js/dropdowns.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="139" selection-start="941" selection-end="941" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="1547">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Utilities.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/js/Utilities.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="26" selection-start="1361" selection-end="1361" vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="1071">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/css/index.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="0" selection-start="2288" selection-end="2288" vertical-scroll-proportion="-8.4" vertical-offset="504" max-vertical-offset="1054">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WebServices.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/js/WebServices.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="143" selection-start="1748" selection-end="1748" vertical-scroll-proportion="0.0" vertical-offset="37" max-vertical-offset="680">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="profile.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/js/profile.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="5" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1037">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -142,7 +415,7 @@
     <option name="width" value="1362" />
     <option name="height" value="726" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -185,128 +458,6 @@
               <option name="myItemId" value="eSCADEAlarms" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eSCADEAlarms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eSCADEAlarms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eSCADEAlarms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eSCADEAlarms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eSCADEAlarms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eSCADEAlarms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eSCADEAlarms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eSCADEAlarms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eSCADEAlarms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eSCADEAlarms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eSCADEAlarms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eSCADEAlarms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eSCADEAlarms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eSCADEAlarms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lost stuff" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -318,6 +469,7 @@
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="D:/Tools/adt/adt-bundle-windows-x86_64-20140702/sdk/tools/ant/build.xml" />
     <property name="SearchEverywhereHistory" value="'" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -396,18 +548,24 @@
       <created>1408095678788</created>
       <updated>1408095678788</updated>
     </task>
+    <task id="LOCAL-00001" summary="Removal of unneeded stuff">
+      <created>1409307222763</created>
+      <updated>1409307222763</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1362" height="726" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998326" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25207546" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25207546" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -455,6 +613,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Removal of unneeded stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removal of unneeded stuff" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -469,37 +629,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/platforms/android/src/com/phonegap/helloworld/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="43" selection-start="1117" selection-end="1117" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="731">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/Tools/adt/adt-bundle-windows-x86_64-20140702/sdk/tools/ant/build.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1152" column="43" selection-start="53684" selection-end="53684" vertical-scroll-proportion="0.44623655" vertical-offset="19335" max-vertical-offset="26248">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/platforms/android/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/platforms/android/CordovaLib/project.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
           <folding />
         </state>
       </provider>
@@ -568,9 +700,7 @@
     <entry file="file://$PROJECT_DIR$/www/spec/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.8038529" vertical-offset="459" max-vertical-offset="1241">
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -602,13 +732,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/platforms/android/cordova/build.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="571">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/build.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="32" column="0" selection-start="1345" selection-end="1345" vertical-scroll-proportion="0.0" vertical-offset="1108" max-vertical-offset="1666">
@@ -633,13 +756,6 @@
     <entry file="file://$PROJECT_DIR$/www/ant.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="17" selection-start="56" selection-end="56" vertical-scroll-proportion="0.02977233" vertical-offset="0" max-vertical-offset="571">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/platforms/android/cordova/build">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="33" selection-start="1293" selection-end="1293" vertical-scroll-proportion="0.67250437" vertical-offset="160" max-vertical-offset="731">
           <folding />
         </state>
       </provider>
@@ -728,23 +844,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="353">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/assets/www/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="24" selection-start="232" selection-end="232" vertical-scroll-proportion="0.2084063" vertical-offset="0" max-vertical-offset="571">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/assets/www/js/Utilities.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="1" selection-start="997" selection-end="997" vertical-scroll-proportion="0.0" vertical-offset="496" max-vertical-offset="1054">
           <folding />
         </state>
       </provider>
@@ -791,21 +893,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/js/pages.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="280" selection-end="280" vertical-scroll-proportion="-5.44" vertical-offset="0" max-vertical-offset="4471">
+        <state line="8" column="0" selection-start="280" selection-end="280" vertical-scroll-proportion="0.25612053" vertical-offset="0" max-vertical-offset="4471">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="26" selection-start="662" selection-end="662" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="1060" selection-end="1060" vertical-scroll-proportion="0.60714287" vertical-offset="0" max-vertical-offset="532">
+        <state line="15" column="26" selection-start="662" selection-end="662" vertical-scroll-proportion="0.44815466" vertical-offset="0" max-vertical-offset="918">
           <folding />
         </state>
       </provider>
