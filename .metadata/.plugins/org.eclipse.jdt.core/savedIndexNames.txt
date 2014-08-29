@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+D:\Projects\eSCADEAlarms\.metadata\.plugins\org.eclipse.jdt.core
+949702581.index
+2537949161.index
+3669203509.index
+1571582367.index
