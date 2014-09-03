@@ -1,9 +1,19 @@
-var app = {initialize: function() {document.addEventListener('deviceready', function(){
+function init()
+{
     initialiseApp();
-    setTimeout(function(){header.initialise();footer.initialise();splash.initialise();}, 200);
-    document.addEventListener("menubutton", function(){menu.menupressed();}, false);
+    setTimeout(function(){header.initialise();footer.initialise();splash.initialise();addMenu()}, 300);
+}
 
-}, false);}};
+function addMenu()
+{
+    document.addEventListener("menubutton", menu.menupressed, false);
+}
+
+var app = {initialize: function(device)
+{
+    device?document.addEventListener('deviceready', init, false):init();
+    document.addEventListener('resume', addMenu, false);
+}};
 
 //Utilities used across this app
 function getAlarmStatus(statusid)

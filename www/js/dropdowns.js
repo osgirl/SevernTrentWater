@@ -27,11 +27,12 @@ var htmlTemplate="<select class='%name loclist'></select><input type='text' clas
 
 function characterevent(event)
 {
-    if(event.which > 64 && event.which<91)
+    var eventcode=event.which;
+    if(eventcode > 64 && eventcode<91)
         return true;
-    if(event.which > 95 && event.which<106)
+    if(eventcode > 95 && eventcode<106)
         return true;
-    if(event.which==32 || event.which==8)
+    if(eventcode==32 || eventcode==8 || eventcode==0)
         return true;
     return false;
 }
@@ -50,7 +51,7 @@ var areaName=new function()
                 getAreas.call(checkWith, function(data){
                     $(data).each(function(){$('.areaname').append('<option value='+this.id+'>'+this.name+'</option>');});
                     if($(".areaname").children().length>1) {$(".areaname").show().focus();$(".areaval").hide();}
-                });
+                }, function(message) {alert("error getting areas ")+message;});
             }
             else
                 if(onNotSet) onNotSet();

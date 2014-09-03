@@ -3,7 +3,7 @@ var header=new function()
     this.initialise=function()
     {
         var thisHtml="<p class='pagename'>Splash screen</p>"
-        $(".pagehead").html(thisHtml);
+        $(".pagehead").html(thisHtml).click(menu.menupressed);
         menu.initialise();
     };
 
