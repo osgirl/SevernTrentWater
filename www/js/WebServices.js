@@ -1,16 +1,16 @@
 function callService(url, data, success, failure)
 {
-    $.ajax(url, {type: 'GET', url: url, data: data, success: function(data) {success(data);}, error:function(jqXHR, textStatus, errorThrown) {failure(errorThrown)}});
+    $.ajax(url, {type: 'GET', url: url, data: data, success: function(data) {success(data);}, error:function(jqXHR, textStatus, errorThrown) {failure({status:textStatus,error:errorThrown})}});
 }
 
 var getAreas=new function()
 {
-    this.call=function(prefix, success, failure){success([{id:1, name:prefix+'first area'}, {id:2, name:prefix+'second area'}])};
-//    this.call=function(prefix, success, failure)
-//    {
-//        var data=['fields=id,name', 'name='+prefix+'%'];
-//        callService('http://172.20.2.101:8080/EscadaStub/escada_api/v1/areas', data, function(data){success(data);},failure);
-//    }
+//    this.call=function(prefix, success, failure){success([{id:1, name:prefix+'first area'}, {id:2, name:prefix+'second area'}])};
+    this.call=function(prefix, success, failure)
+    {
+        var data=['fields=id,name', 'name='+prefix+'%'];
+        callService('http://194.74.158.237:52868/EscadaStub/escada_api/v1/areas', data, function(data){success(data);},failure);
+    }
 };
 
 var getSites=new function()
@@ -27,7 +27,7 @@ var getAlarmList=new function()
     {
         var data=['fields=id, status, alarm_text', 'area_id=area']
         if(site>=0) data.push('work_id='+site);
-        callService('http://172.20.2.101:8080/EscadaStub/escada_api/v1/alarms', data, function(data){success(data);}, failure);
+        callService('http://194.74.158.237:52868/EscadaStub/escada_api/v1/alarms', data, function(data){success(data);}, failure);
     }
 };
 

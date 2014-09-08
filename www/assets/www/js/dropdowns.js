@@ -51,7 +51,7 @@ var areaName=new function()
                 getAreas.call(checkWith, function(data){
                     $(data).each(function(){$('.areaname').append('<option value='+this.id+'>'+this.name+'</option>');});
                     if($(".areaname").children().length>1) {$(".areaname").show().focus();$(".areaval").hide();}
-                }, function(message) {alert("error getting areas ")+message;});
+                }, function(errors) {alert("error getting areas status:"+message.status +" error: "+message.error);});
             }
             else
                 if(onNotSet) onNotSet();

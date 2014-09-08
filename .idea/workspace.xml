@@ -1,45 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="459fa149-7e4c-4b3a-b47e-b85730478d5a" name="Default" comment="Refixing to make it work&#10;">
-      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\.metadata\.plugins\org.eclipse.core.resources\.history\1d\b004877aaa2700141ad8d686c92f8222" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\.metadata\.plugins\org.eclipse.core.resources\.history\3a\e0b15861bb260014176296229243bab9" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\.metadata\.plugins\org.eclipse.core.resources\.history\7f\c0d1957aaa2700141ad8d686c92f8222" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\.metadata\.plugins\org.eclipse.core.resources\.history\80\3053f9c1eb2600141134e8cadc8b35c4" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\.metadata\.plugins\org.eclipse.core.resources\.history\93\b015e46abb260014176296229243bab9" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\.metadata\.plugins\org.eclipse.core.resources\.history\98\6052e36abb260014176296229243bab9" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\.metadata\.plugins\org.eclipse.core.resources\.history\a2\2016887aaa2700141ad8d686c92f8222" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\.metadata\.plugins\org.eclipse.core.resources\.history\ad\60e7947aaa2700141ad8d686c92f8222" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\.metadata\.plugins\org.eclipse.core.resources\.history\d1\80eccb5ebb260014176296229243bab9" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\.metadata\.plugins\org.eclipse.core.resources\.history\d8\903dfac1eb2600141134e8cadc8b35c4" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\.metadata\.plugins\org.eclipse.core.resources\.history\ee\f08cca5ebb260014176296229243bab9" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\.metadata\.plugins\org.eclipse.core.resources\.history\f8\30755961bb260014176296229243bab9" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\.metadata\.plugins\org.eclipse.core.resources\.projects\App\.indexes\a0\de\history.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\.metadata\.plugins\org.eclipse.core.resources\.projects\App\.indexes\af\history.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\.metadata\.plugins\org.eclipse.core.resources\.projects\App\.indexes\history.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\.metadata\.plugins\org.eclipse.core.resources\.projects\appcompat_v7\.indexes\af\history.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\.metadata\.plugins\org.eclipse.core.resources\.projects\eSCALAalarms\.indexes\7\af\history.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\.metadata\.plugins\org.eclipse.core.resources\.projects\eSCALAalarms\.indexes\a0\de\history.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\.metadata\.plugins\org.eclipse.core.resources\.projects\eSCALAalarms\.indexes\af\history.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\.metadata\.plugins\org.eclipse.core.resources\.projects\eSCALAalarms\.indexes\history.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\.metadata\.plugins\org.eclipse.core.resources\.root\6.tree" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\.metadata\.plugins\org.eclipse.jdt.core\1571582367.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\.metadata\.plugins\org.eclipse.jdt.core\660803183.index" afterPath="" />
+    <list default="true" id="459fa149-7e4c-4b3a-b47e-b85730478d5a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/res/drawable/icon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/res/drawable-hdpi/icon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/res/drawable-ldpi/icon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/res/drawable-mdpi/icon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/res/drawable-xhdpi/icon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/phone.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/tablet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/tests.js" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\assets\www\js\jquery-1.11.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\res\drawable-hdpi\icon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\res\drawable-ldpi\icon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\res\drawable-mdpi\icon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\res\drawable-xhdpi\icon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\bin\res\drawable\icon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\js\jquery-1.11.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\res\drawable-hdpi\icon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\res\drawable-ldpi\icon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\res\drawable-mdpi\icon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\res\drawable-xhdpi\icon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\eSCADEAlarms\www\res\drawable\icon.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.jdt.core.external.folders/.markers.snap" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.jdt.core.external.folders/.markers.snap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/App/.markers.snap" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/App/.markers.snap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/appcompat_v7/.markers.snap" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/appcompat_v7/.markers.snap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.snap" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.snap" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2935849019.index" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2935849019.index" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.jdt.core.external.folders/.syncinfo.snap" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.jdt.core.external.folders/.syncinfo.snap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/App/.syncinfo.snap" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/App/.syncinfo.snap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/appcompat_v7/.syncinfo.snap" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/appcompat_v7/.syncinfo.snap" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/bin/eSCADAAlarms-release-unaligned.apk" afterPath="$PROJECT_DIR$/www/bin/eSCADAAlarms-release-unaligned.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/bin/eSCADAAlarms-release-unsigned.apk" afterPath="$PROJECT_DIR$/www/bin/eSCADAAlarms-release-unsigned.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/bin/eSCADAAlarms-release.apk" afterPath="$PROJECT_DIR$/www/bin/eSCADAAlarms-release.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/bin/eSCADAAlarms.ap_" afterPath="$PROJECT_DIR$/www/bin/eSCADAAlarms.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/assets/www/img/menubtn.jpg" afterPath="$PROJECT_DIR$/www/assets/www/img/menubtn.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/img/menubtn.jpg" afterPath="$PROJECT_DIR$/www/img/menubtn.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.cdt.core/.log" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.cdt.core/.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/AndroidManifest.xml" afterPath="$PROJECT_DIR$/www/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/bin/AndroidManifest.xml" afterPath="$PROJECT_DIR$/www/bin/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/gen/R.java.d" afterPath="$PROJECT_DIR$/www/gen/R.java.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/assets/www/js/Utilities.js" afterPath="$PROJECT_DIR$/www/assets/www/js/Utilities.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/Utilities.js" afterPath="$PROJECT_DIR$/www/js/Utilities.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/assets/www/js/WebServices.js" afterPath="$PROJECT_DIR$/www/assets/www/js/WebServices.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/WebServices.js" afterPath="$PROJECT_DIR$/www/js/WebServices.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/CordovaLib/bin/build.prop" afterPath="$PROJECT_DIR$/www/CordovaLib/bin/build.prop" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/bin/build.prop" afterPath="$PROJECT_DIR$/www/bin/build.prop" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/config.xml" afterPath="$PROJECT_DIR$/www/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/res/xml/config.xml" afterPath="$PROJECT_DIR$/www/res/xml/config.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/assets/www/js/dropdowns.js" afterPath="$PROJECT_DIR$/www/assets/www/js/dropdowns.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/dropdowns.js" afterPath="$PROJECT_DIR$/www/js/dropdowns.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/bin/eSCADAAlarms.ap_.d" afterPath="$PROJECT_DIR$/www/bin/eSCADAAlarms.ap_.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/assets/www/css/index.css" afterPath="$PROJECT_DIR$/www/assets/www/css/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/index.css" afterPath="$PROJECT_DIR$/www/css/index.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/assets/www/index.html" afterPath="$PROJECT_DIR$/www/assets/www/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/assets/www/js/index.js" afterPath="$PROJECT_DIR$/www/assets/www/js/index.js" />
@@ -47,8 +61,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/assets/www/js/pages.js" afterPath="$PROJECT_DIR$/www/assets/www/js/pages.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/pages.js" afterPath="$PROJECT_DIR$/www/js/pages.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="eSCADEAlarms.iws" />
@@ -72,10 +84,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="pages.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/js/pages.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="30" selection-start="1423" selection-end="1423" vertical-scroll-proportion="-2.713355" vertical-offset="2346" max-vertical-offset="4250">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="0" selection-start="672" selection-end="672" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="9" selection-start="2280" selection-end="2280" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="663">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/css/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="0" selection-start="1374" selection-end="1374" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="969">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="38" selection-start="1117" selection-end="1117" vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="442">
+            <state line="22" column="85" selection-start="1384" selection-end="1384" vertical-scroll-proportion="-14.384615" vertical-offset="0" max-vertical-offset="612">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="phone.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/css/phone.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="0" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tablet.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/css/tablet.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="22" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
               <folding />
             </state>
           </provider>
@@ -84,37 +150,8 @@
       <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918">
+            <state line="30" column="0" selection-start="639" selection-end="639" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="1666">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pages.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/js/pages.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="54" selection-start="446" selection-end="446" vertical-scroll-proportion="-5.44" vertical-offset="204" max-vertical-offset="4029">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dropdowns.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/www/js/dropdowns.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="1" selection-start="1225" selection-end="1225" vertical-scroll-proportion="0.33633092" vertical-offset="442" max-vertical-offset="1564">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WebServices.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/js/WebServices.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="2" selection-start="1326" selection-end="1326" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="782">
-              <folding>
-                <marker date="1409731514109" expanded="true" signature="250:637" placeholder="{...}" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -141,29 +178,35 @@
         <option value="$PROJECT_DIR$/www/bin/proguard.txt" />
         <option value="$PROJECT_DIR$/www/gen/com/phonegap/eSCADAAlarms/BuildConfig.java" />
         <option value="$PROJECT_DIR$/platforms/android/assets/www/js/index.js" />
-        <option value="$PROJECT_DIR$/www/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/www/config.xml" />
         <option value="$PROJECT_DIR$/www/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/www/src/com/phonegap/eSCADAAlarms/eSCADAAlarms.java" />
-        <option value="$PROJECT_DIR$/www/js/Utilities.js" />
         <option value="$PROJECT_DIR$/www/js/profile.js" />
-        <option value="$PROJECT_DIR$/www/css/index.css" />
         <option value="$PROJECT_DIR$/js/index.js" />
         <option value="$PROJECT_DIR$/js/pages.js" />
-        <option value="$PROJECT_DIR$/www/index.html" />
-        <option value="$PROJECT_DIR$/www/assets/www/js/pages.js" />
-        <option value="$PROJECT_DIR$/www/js/pages.js" />
-        <option value="$PROJECT_DIR$/www/js/WebServices.js" />
-        <option value="$PROJECT_DIR$/www/js/index.js" />
+        <option value="$PROJECT_DIR$/platforms/android/assets/www/assets/www/js/WebServices.js" />
         <option value="$PROJECT_DIR$/www/js/dropdowns.js" />
+        <option value="$PROJECT_DIR$/www/assets/www/js/pages.js" />
+        <option value="$PROJECT_DIR$/www/js/Utilities.js" />
+        <option value="$PROJECT_DIR$/platforms/android/assets/www/js/pages.js" />
+        <option value="$PROJECT_DIR$/www/js/WebServices.js" />
+        <option value="$PROJECT_DIR$/www/js/tests.js" />
+        <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/www/css/index.css" />
+        <option value="$PROJECT_DIR$/www/css/tablet.css" />
+        <option value="$PROJECT_DIR$/www/res/xml/config.xml" />
+        <option value="$PROJECT_DIR$/www/config.xml" />
+        <option value="$PROJECT_DIR$/www/css/phone.css" />
+        <option value="$PROJECT_DIR$/www/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/www/js/index.js" />
+        <option value="$PROJECT_DIR$/www/js/pages.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2" />
-    <option name="y" value="1" />
-    <option name="width" value="1362" />
-    <option name="height" value="726" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1380" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -172,7 +215,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -240,6 +283,28 @@
               <option name="myItemId" value="eSCADEAlarms" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aspnet_client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="system_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eSCADEAlarms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eSCADEAlarms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -255,11 +320,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Projects\eSCADEAlarms\www\res" />
-      <recent name="D:\Projects\eSCADEAlarms\www\assets\www" />
       <recent name="D:\Projects\eSCADEAlarms\www\res\drawable-xhdpi" />
       <recent name="D:\Projects\eSCADEAlarms\www\res\drawable-mdpi" />
       <recent name="D:\Projects\eSCADEAlarms\www\res\drawable-ldpi" />
+      <recent name="D:\Projects\eSCADEAlarms\www\res\drawable-hdpi" />
+      <recent name="D:\Projects\eSCADEAlarms\www\res\drawable" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Projects\eSCADEAlarms\www" />
@@ -346,28 +411,32 @@
       <created>1409320551382</created>
       <updated>1409320551382</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Working for Richard">
+      <created>1409739389276</created>
+      <updated>1409739389276</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="1" width="1362" height="726" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1380" height="784" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30015314" sideWeight="0.4996277" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25207546" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24869695" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30015314" sideWeight="0.5003723" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.4996277" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998326" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -378,15 +447,16 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998326" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30015314" sideWeight="0.4996277" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30015314" sideWeight="0.5003723" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.4996277" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25207546" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24869695" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -413,7 +483,8 @@
     <MESSAGE value="Removing messages" />
     <MESSAGE value="Tweaking to work without messages&#10;" />
     <MESSAGE value="Refixing to make it work" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refixing to make it work" />
+    <MESSAGE value="Working for Richard" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working for Richard" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -426,46 +497,234 @@
         <state line="1152" column="43" selection-start="53684" selection-end="53684" vertical-scroll-proportion="0.44623655" vertical-offset="19335" max-vertical-offset="26248" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.html">
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/assets/www/js/WebServices.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="38" selection-start="1117" selection-end="1117" vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="442">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/assets/www/js/pages.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="37" selection-start="163" selection-end="163" vertical-scroll-proportion="0.1528777" vertical-offset="0" max-vertical-offset="4046">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/WebServices.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="2" selection-start="1326" selection-end="1326" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="782">
-          <folding>
-            <marker date="1409731514109" expanded="true" signature="250:637" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/pages.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="54" selection-start="446" selection-end="446" vertical-scroll-proportion="-5.44" vertical-offset="204" max-vertical-offset="4029">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918">
+        <state line="2" column="141" selection-start="193" selection-end="244" vertical-scroll-proportion="0.094444446" vertical-offset="0" max-vertical-offset="782">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/js/dropdowns.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="1" selection-start="1225" selection-end="1225" vertical-scroll-proportion="0.33633092" vertical-offset="442" max-vertical-offset="1564">
+        <state line="55" column="16" selection-start="2196" selection-end="2196" vertical-scroll-proportion="0.0" vertical-offset="730" max-vertical-offset="1564">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/assets/www/js/pages.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="156" column="65" selection-start="6254" selection-end="6254" vertical-scroll-proportion="0.5222222" vertical-offset="2464" max-vertical-offset="4063">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/assets/www/js/dropdowns.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="16" selection-start="2913" selection-end="2913" vertical-scroll-proportion="0.0" vertical-offset="1008" max-vertical-offset="1564">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/bin/AndroidManifest.xml.d">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="743">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/bin/build.prop">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="743">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/profile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="0" selection-start="974" selection-end="974" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="1037">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/Utilities.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="14" selection-start="1013" selection-end="1013" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="1105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/js/pages.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="218" column="0" selection-start="8868" selection-end="8868" vertical-scroll-proportion="0.6507177" vertical-offset="3434" max-vertical-offset="4063">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/qunit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="99" column="4" selection-start="2566" selection-end="2566" vertical-scroll-proportion="0.33224756" vertical-offset="1326" max-vertical-offset="42364">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/WebServices.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="5" selection-start="1403" selection-end="1403" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="782">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="0" selection-start="1818" selection-end="1818" vertical-scroll-proportion="0.0" vertical-offset="680" max-vertical-offset="1394">
+          <folding>
+            <marker date="1409840350827" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409840350827" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409840350827" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409840350827" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409840350827" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="85" selection-start="1384" selection-end="1384" vertical-scroll-proportion="-14.384615" vertical-offset="0" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/img/splash.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/tablet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="22" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/project.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="431">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/proguard-project.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="627">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="410">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/ant.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="627">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="0" selection-start="3044" selection-end="3044" vertical-scroll-proportion="0.2801303" vertical-offset="1052" max-vertical-offset="1666">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/src/com/phonegap/eSCADAAlarms/eSCADAAlarms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="627">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/res/xml/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="53" selection-start="734" selection-end="734" vertical-scroll-proportion="0.3524721" vertical-offset="0" max-vertical-offset="731">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="743">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/bin/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="38" selection-start="501" selection-end="501" vertical-scroll-proportion="0.08306189" vertical-offset="0" max-vertical-offset="614">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="1374" selection-end="1374" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="969">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/phone.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/assets/www/js/phonegap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1485" column="56" selection-start="49413" selection-end="49413" vertical-scroll-proportion="-14.36" vertical-offset="24886" max-vertical-offset="32079">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/assets/www/js/cordova.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1545" column="49" selection-start="51356" selection-end="51366" vertical-scroll-proportion="0.34507042" vertical-offset="26069" max-vertical-offset="32079">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="9" selection-start="2280" selection-end="2280" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="663">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="672" selection-end="672" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="0" selection-start="639" selection-end="639" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="1666">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/pages.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="30" selection-start="1423" selection-end="1423" vertical-scroll-proportion="-2.713355" vertical-offset="2346" max-vertical-offset="4250">
           <folding />
         </state>
       </provider>

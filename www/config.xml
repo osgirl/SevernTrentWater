@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.eSCADAAlarms" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>eSCALAAlarms</name>
-    <description>
-        eSCALA alarm system for alerts regarding work orders
-    </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        Spargonet
-    </author>
+    <name>eSCALA Alarms</name>
+    <description>eSCALA alarm system for Severn Trent Water</description>
+    <author email="support@phonegap.com" href="http://phonegap.com">Spargonet</author>
     <feature name="http://api.phonegap.com/1.0/device" />
+    <feature name="App"><param name="android-package" value="org.apache.cordova.App" /></feature>
+    <plugin name="SplashScreen" value="org.apache.cordova.SplashScreen"/>
     <preference name="permissions" value="none" />
     <preference name="orientation" value="default" />
     <preference name="target-device" value="universal" />
@@ -31,5 +29,5 @@
     <gap:splash gap:density="mdpi" gap:platform="android" src="res/screen/android/screen-mdpi-portrait.png" />
     <gap:splash gap:density="hdpi" gap:platform="android" src="res/screen/android/screen-hdpi-portrait.png" />
     <gap:splash gap:density="xhdpi" gap:platform="android" src="res/screen/android/screen-xhdpi-portrait.png" />
-    <access origin="http://127.0.0.1*" />
+    <access origin="*" />
 </widget>

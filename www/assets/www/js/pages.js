@@ -2,14 +2,14 @@ var header=new function()
 {
     this.initialise=function()
     {
-        var thisHtml="<p class='pagename'>Splash screen</p>"
+        var thisHtml="<p class='headingpara'><img src='img/logosmall.png' class='headinglogo'/><span class='pagename'>Splash screen</span><img src='img/menubtn.jpg' class='menuimg' /></p>";
         $(".pagehead").html(thisHtml).click(menu.menupressed);
-        menu.initialise();
+        setTimeout(menu.initialise, 100);
     };
 
     this.setPageName=function(name)
     {
-        $(".pagename").text(name);
+        $(".pagename").css("color", "black").text(name).css("color", "white");
     };
 };
 
@@ -38,8 +38,10 @@ var about=new function()
 {
     this.initialise=function()
     {
+        back.setCurrent(this);
+        $(".pagebody").hide();
         var thisHtml="<div class='about'><p class='aboutheading'>eSCADA Alarms system</p><p class='aboutdetail'>Version 0.1</p><p class='aboutdetail'>Written by Spargonet</p></div>";
-        $(".pagebody").html(thisHtml);
+        $(".pagebody").html(thisHtml).fadeIn("fast");
         header.setPageName("About");
     }
 };
@@ -60,12 +62,11 @@ var splash=new function()
             if(profile.profileManager()) manager.initialise();
             if(profile.profileUnset()) profilePage.initialise(false);
         }
-
-        var thisHtml="<div class='splash'><img src='img/logo.png' class='logo'/><p class='welcome'>Welcome to the<br />";
-        thisHtml+="eSCADA Alarms<br/>application</p><p class='safety'>Only use this application when in a place of safety</p></div>";
-        $(".pagebody").html(thisHtml);
+        $(".pagebody").hide();
+        var thisHtml="<div class='splash'><img src='img/splash.jpg' class='splash'/><p class='safety'>Only use this application when in a place of safety</p></div>";
+        $(".pagebody").html(thisHtml).fadeIn("fast");
         header.setPageName("Welcome");
-        setScreen();
+        setTimeout(setScreen, 4000);
     }
 };
 
@@ -73,9 +74,11 @@ var technician=new function()
 {
     this.initialise=function()
     {
+        back.setCurrent(this);
+        $(".pagebody").hide();
         var thisHtml="<div class='technician'><p>Hi <span class='name' /></p><p>Please enter work order number:</p>";
         thisHtml+="<p><input type='text' class='won' /></p><p><a class='button submit'>Submit</a></p></div>";
-        $(".pagebody").html(thisHtml);
+        $(".pagebody").html(thisHtml).fadeIn("fast");
 
         $(".name").text(profile.firstName+" "+profile.lastName);
         $(".won").keyup(function()
@@ -94,16 +97,17 @@ var manager=new function()
 {
     this.initialise=function()
     {
+        back.setCurrent(this);
         function getAlarmsError(error)
         {
-            $(".countdetails").html("Error getting alarms for this area "+error);
+            $(".countdetails").html("Error getting alarms for this area. status:"+error.status +" message:"+error.error);
         }
-
+        $(".pagebody").hide();
         var alertList;
         var thisHtml="<div class='manager'><p>Hi <span class='name' /></p><p class='countdetails'>Calculating count of alerts</p>";
         thisHtml+="<p><a class='button view'>View Alarms</a></p><p class='clearall'>Area name:<span class='area'";
         thisHtml+="</p><p>Site name:    <span class='site'/></p><p><a class='button show disabled'>Show Alarms</a></p> </div>";
-        $(".pagebody").html(thisHtml);
+        $(".pagebody").html(thisHtml).fadeIn("fast");
         $(".name").text(profile.firstName+" "+profile.lastName);
         $(".view").hide().click(function(){managerList.initialise(alertList);});
 
@@ -111,7 +115,9 @@ var manager=new function()
         siteName.add($(".site"), function() {$(".show").removeClass("disabled");}, function() {$(".show").addClass("disabled");});
 
         $(".show").click(function(){if(!$(this).hasClass("disabled")) getAlarmList.call($(".areaid").val(), $(".siteid").val(), function(data) {managerList.initialise(data);}, getAlarmsError);});
-        setTimeout(function(){getAlarmList.call(profile.area, profile.site, function(data){alertList=data;$(".countdetails").html(alertList.length+" alarms for "+profile.areaSiteName()); $(".view").show();}, getAlarmsError)});
+        setTimeout(function(){
+            getAlarmList.call(profile.area, profile.site, function(data){alertList=data;$(".countdetails").html(alertList.length+" alarms for "+profile.areaSiteName()); $(".view").show();}, getAlarmsError)}
+        );
 
         header.setPageName("Manager page summary");
     }
@@ -121,8 +127,10 @@ var managerList=new function()
 {
     this.initialise=function(alarmslist)
     {
+        back.setCurrent(this);
+        $(".pagebody").hide();
         var list=alarmslist;
-        $(".pagebody").html("<div class='managerlist'></div>");
+        $(".pagebody").html("<div class='managerlist'></div>").fadeIn("fast");
         var detailref="1000";
         $(list).each(function(item){
             var alarm=list[item];
@@ -147,12 +155,13 @@ var workOrderDetails=new function()
 {
     this.initialise=function(won)
     {
-        $(".pagebody").html("<div class='workorder'></div>");
+        back.setCurrent(this);
+        $(".pagebody").hide().html("<div class='workorder'></div>").fadeIn("fast");
         getAlarmDetails.call(won, function(data) {
             $(".workorder").append("<p class='text'>"+data.alarm_text+"</p><p>Actions for this work order:</p><ul>");
             $(data.actions).each(function(){$(".workorder").append("<li >"+getActionStatus(this.state)+"</li>");})
             $(".workorder").append("</ul>");
-        }, function(){alert("error in getting this work order")})
+        }, function(){$(".workorder").append("<p class='notfound'>This work order doesn't exist</p>");})
         header.setPageName("Work Order Details");
     }
 };
@@ -189,12 +198,14 @@ var profilePage=new function()
                 $(".save").removeClass("disabled");
         }
 
+        back.setCurrent(this);
+        $(".pagebody").hide();
         var thisHtml="<div class='profile'><p>Name:<input type='text' class='firstName' /><input type='text' class='lastName' /></p>";
         thisHtml+="<p>Role:<input type='radio' class='technician' name='role' value='tech'>Technician<br><input type='radio' class='manager' name='role' value='manager'>Manager</p>";
         thisHtml+="<div class='managerdetails'><p>Current selection:<span class='currentselection'>None selected</span></p>";
         thisHtml+="<p>Area name:<span class='area'></span></p><p>Site name:    <span class='site'></span></p></div>";
         thisHtml+="<a class='button close'>Close</a><a class='button save'>Save</a></div>";
-        $(".pagebody").html(thisHtml);
+        $(".pagebody").html(thisHtml).fadeIn("fast");
 
         areaName.add($(".area"), function (value, text){$(".currentselection").html("area:"+text);profile.setArea(value, text);setSaveButton();});
         siteName.add($(".site"), function (value, text){$(".currentselection").html("area: "+profile.areaName+" site:"+text);profile.setSite(value, text);setSaveButton();});
@@ -214,6 +225,8 @@ var profilePage=new function()
                 $(".siteval").val(profile.siteName);
                 $(".siteid").val(profile.site);
             }
+            else
+                $(".technician").click().prop("checked",true);
             menu.isAvailable=true;
         }
         else

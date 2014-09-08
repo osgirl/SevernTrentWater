@@ -30,14 +30,16 @@ function hideMask()
     $(".mask").trigger("close");
 }
 
-function initialiseApp()
+function initialiseApp(overwrite)
 {
     var html='<div class="pagehead"></div><div class="pagemenu"></div><div class="pagebody"></div><div class="pagefoot"></div><div class="mask"><div class="maskSpinner"><img class="spinner" src="img/spinner.gif" /></div><div class="maskMessage"></div></div>';
-    $("body").html(html);
+    if(overwrite)
+        $("body").html(html);
+    else
+        $("body").append(html);
     $(".mask").hide();
     $(".pagemenu").hide();
-    $('head').append('<link rel="stylesheet" type="text/css" href="css/spargonet.css" />');
-    $('head').append('<link rel="stylesheet" type="text/css" href="css/index.css" />');
+    $('head').append('<link rel="stylesheet" type="text/css" href="css/spargonet.css" /><link rel="stylesheet" type="text/css" href="css/index.css" />');
 }
 
 function showConnectionType()

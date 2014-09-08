@@ -1,0 +1,9 @@
+.pagehead, .pagebody, .pagefoot {width:1000px}
+.pagemenu{width:800px}
+.pagename{width:920px}
+.success {width:900px}
+.profile .firstName{width:300px}
+.profile .lastName{width:300px;margin-left:10px}
+.loctext, .loclist{width:300px}
+p{margin-bottom: 25px}
+.pagehead{margin-bottom:25px}
